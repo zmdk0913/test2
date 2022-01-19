@@ -1,5 +1,5 @@
 name: Greet Everyone
-# 이 Workflow는 저장소에 Push가 되면 실행 되도록 한다
+# 이 Workflow는 저장소에 Push가 되면 실행 되도록 한
 on: [push]
 
 jobs:
